@@ -22,5 +22,6 @@ export default createGlobalStyle`
     margin-left: auto;
     padding: 1em;
     color: #030C30;
+    font-family: 'Inter var', sans-serif; 
   }
 `;
